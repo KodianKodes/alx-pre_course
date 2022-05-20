@@ -1,0 +1,10 @@
+git add 
+git commit
+git push
+git status
+git log
+git branch
+git switch branch
+git config add user.email
+git comfig add user.name
+
