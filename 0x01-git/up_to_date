@@ -7,4 +7,5 @@ git branch
 git switch branch
 git config add user.email
 git comfig add user.name
+git pull
 
